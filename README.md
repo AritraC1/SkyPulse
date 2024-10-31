@@ -9,7 +9,7 @@ This app showcases a Flutter application that connects to a NodeJs server for fe
 <img width="362" alt="Searched Loaction 2: Ishigaki" src="https://github.com/user-attachments/assets/33d6c6d5-154a-47f8-b43d-df212e929c54">
 
 ## Server (NodeJs)
-Implemented in Node.js with the 'express' library, the server fetches data from the weather api on port 3000.
+Implemented Node.js with the 'express' library. The Node.js server acts as an API that processes requests from the Flutter app, fetches real-time weather data from a third-party API (OpenWeatherMap), and sends the data back to the Flutter app in a structured JSON format on port 3000.
 
 ### Installation and Usage
 
@@ -21,7 +21,7 @@ Implemented in Node.js with the 'express' library, the server fetches data from 
 
 ## Client (Flutter)
 
-The Flutter client app connects seamlessly to the server. 
+The Flutter client app connects seamlessly to the server and provides a user interface where users can enter a location to view weather information. It fetches data from the backend, displays the location name, weather icon, temperature, description, and other details like wind speed and humidity, and updates the background and weather icon based on weather conditions.
 
 ### Installation and Usage
 
@@ -31,7 +31,3 @@ The Flutter client app connects seamlessly to the server.
 4. Connect your device or launch an emulator.
 5. Run the Flutter app: 'flutter run'
 6. Input the server URL (e.g., 'http://localhost:3000')
-
-## Functionality
-
-- The app provides a user interface where users can enter a location to view weather information. It fetches data from the backend, displays the location name, weather icon, temperature, description, and other details like wind speed and humidity, and updates the background and weather icon based on weather conditions.
