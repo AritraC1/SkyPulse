@@ -1,0 +1,9 @@
+# Full Project (Overall)
+.vscode
+.idea
+.dart_tool
+.DS_Store
+
+# Server
+server/.env
+server/node_modules/
