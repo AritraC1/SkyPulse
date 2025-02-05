@@ -10,15 +10,15 @@
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
-		WBDcNG/0BUOtsKQgKYOLyuqAbAM=
+		RQz4IcWlzQDhcS+WhpdkP0ZmG/U=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
-		Bqtil6RquU1Hfn8gu0IYARWvCIM=
+		p9L2wYzUJMn6emeYXqKiPdd3bhU=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		e3xERwMef99DISaP4NAhuU2mx3M=
+		En4UIaIQWey6ggkoCUdfw8LaAvs=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		YyQiyHWbqgaeTtBxQfjom/jn+ag=
+		jeToJ2qZdeM5KgRKT0HBFvVjibE=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5mTaL2zr4HZqNHVzL5Q6U1+OTSI=
+		ZpjAU8rtQrvgxM+5iSNkjpOkrwE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		QKhgkMK1TtooukFBctiGTKreZ+I=
+		TlzgCqJ1U5VqFjEt7gVJroWEs6k=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Poppins-ExtraBold.ttf</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		xReaeitFTDFIJuQhHWBqlv4PyV8=
+		vuvIPG1UnF5jJDkbB1yuKawi2HI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -216,6 +216,26 @@
 		<data>
 		ipm8hg7aB3LzsfShJfpNR0QQ4hw=
 		</data>
+		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
+		<data>
+		s8j9JPfYqzI95cbq+7rOqLgQbn0=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/_CodeSignature/CodeResources</key>
+		<data>
+		E/vmy8LBy2Pe9P8YLt45BjVM6gk=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
+		<data>
+		fuxZ4xrUsZjD/o71SbJ7UZYNotI=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
+		<data>
+		+n+kEH2SsJsKQG6VUk40eIs5WO8=
+		</data>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		KFiVi4mWKmBFkTjfe3H4jsOvLNM=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		30bSE3F9k0tNaJLWenjyXQi+hBg=
@@ -226,7 +246,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		hA4UJL4lU/8ipXQ1H+gmle15kN0=
+		ZV/nEKZCFl+drQcHclUlhbRUZV4=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -246,21 +266,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gb4XFIHccaCygD680B3YsMX9V3je40wKPKvJSMIl8k4=
+			kRFk5WQcoUwIvTR7iZ4PIJcmr/gB48KKpgzvZGpyZlM=
 			</data>
 		</dict>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QcfUL25h+P5/MLH/oiVq7LyWgr4G0YxKMGIEPhouVHw=
+			rbzHWl2PPJYSP3P+PnSYIEcxvP8L549Sf7K47JQovh0=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5SWU2CSNXuZbKa1g8INAXq+dLiFaZ2A4YmPm+vGPrl0=
+			1qSSCQfCI05noIYb7C7ThWyWHKhHMD8i1GuVxq7NyDc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -309,7 +329,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eu4WSe4EpsXtuOQaq5zkltUqUPBjdF/JNyFOBrVJsVw=
+			aReq1CnCZXcrcFMbVGYsOyjRbuMqA/6e9G/JURtjDJg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -323,7 +343,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kQSiMDg/RLVRDaGm0Z5JDo4wd18KWDoyifmTVBKA2tI=
+			ZoATRkUlAOs+pvhYywG8WO4ckBfG/YkoakGt3u1fJuI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -351,7 +371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9919WvCX1+QoPRqHXrNR+hSePYMRmt4mFVy/Er5lIqY=
+			mXpZqYvuZB8dZjhO03QaazlllbZyBcjsaMRb6KpNCkM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Poppins-ExtraBold.ttf</key>
@@ -421,7 +441,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2YSNab6m+cTm8RydRwaUVwEAe+UmxxWDAD57tmfoJHk=
+			zHpc9N8aqNt9IwEKeb9oHMM0ktmggkggEVTsj89yt7w=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -606,11 +626,46 @@
 			wSU3Ai74GJkae/7UGnbY1q6WL/vA5lEax2Kl0IRef3w=
 			</data>
 		</dict>
+		<key>Frameworks/geolocator_apple.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z7uo585VbQl2zhRj8dkLAamW3j5h9zUDl8lkWnyfomw=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hHQPdRGbMqHVGKIGVqELXnCIIQkRy9ZDOjs1JeSak8A=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3l4Ckao1yyudlVifrVJU6E5aEkE4V+dIoLiljISFtYg=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ehB3+oaIeiYE5XN+DLcTtLochqPWkHzU0E+0t6Aasf0=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator_apple.framework/geolocator_apple_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p+c+xOFN/pYr5bFknUH/y01YGEb8+JJchzbtJ60mdTI=
+			</data>
+		</dict>
 		<key>Runner.debug.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LgEIrze9PTOGHynqFagOSBpSTN3bO0BgaAQZ3/yjO6w=
+			Tt9d8qYlMFFLiwVSbaXUQLXSWWCsjGv+aD4ZiMkmh40=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
